@@ -1,6 +1,6 @@
 # File: initials.py
 # Description: Print out my initials.
-# Assignment Number: 1
+# Assignment Number: 2
 #
 # Name: Michael Yaw Siaw
 # STUDENT ID: 2425403153
@@ -11,21 +11,21 @@
 # and I have not provided this code to any other student.
 
 def main():
-    print("print out my initials\n\n")
-
-    print('...MYS\n\n\n')
-
-
-    print('...MMMM....MMMM.......YYY..........YYY......SSSSSSSSSS.....')
-    print('...MMMM....MMMM........YYY.........YYY.....SSSSSSSSSSS.....')
-    print('...MM.MM..MM.MM.........YYY.......YYY.....SSSS.............')
-    print('...MM.MM..MM.MM..........YYY.....YYY......SSSS.............')
-    print('...MM.MM..MM.MM...........YYYY.YYYY.........SSSSSS.........')
-    print('...MM..MMMM..MM............YYYYYYY...........SSSSSS........')
-    print('...MM..MMMM..MM.............YYYYY.................SSSS.....')
-    print('...MM...MM...MM.............YYYYY.................SSSS.....')
-    print('...MM...MM...MM...**........YYYYY..**.....SSSSSSSSSSS....**')
-    print('...MM...MM...MM...**........YYYYY...**....SSSSSSSSSS.....**\n\n\n')
+    print('print out my initials')
+    print()
+    print('...MYS')
+    print()
+    print('...MMMM....MMMM........YYYY....YYYY..........SSSSSSSSSS.....')
+    print('...MMMM....MMMM........YYYY....YYYY.........SSSSSSSSSSS.....')
+    print('...MM.MM..MM.MM.........YYYY..YYYY.........SSSS.............')
+    print('...MM.MM..MM.MM..........YYY..YYY..........SSSS.............')
+    print('...MM.MM..MM.MM............YYYY..............SSSSSS.........')
+    print('...MM..MMMM..MM............YYYY................SSSSSS.......')
+    print('...MM..MMMM..MM............YYYY....................SSSS.....')
+    print('...MM...MM...MM............YYYY....................SSSS.....')
+    print('...MM...MM...MM...**.......YYYY...**.......SSSSSSSSSSS....**')
+    print('...MM...MM...MM...**.......YYYY...**.......SSSSSSSSSS.....**')
+    print()
 
 
 main()
